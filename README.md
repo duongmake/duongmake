@@ -3,9 +3,9 @@
 
 ### I'm Pham Tien Duong 😎
 * 💻I want to be good at software engineering. 
-* 🥳My hobbies: football, listening to mucsic and technology discovery. 
+* 🥳My hobbies: football, listening to mucsic and technology discovery.               ![image](https://github.com/duongmake/duongmake/assets/95214894/0986d5ca-3598-456a-8017-f1b0e79ac099)
 * 🏢I am a Manual Tester of FPT Software company. 
-![image](https://github.com/duongmake/duongmake/assets/95214894/0986d5ca-3598-456a-8017-f1b0e79ac099)
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/t.dnuog/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d%C6%B0%C6%A1ng-ph%E1%BA%A1m/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19274672/johnwick) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@duongpham6520/featured) 
